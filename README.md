@@ -6,9 +6,9 @@
 
 
 Actuellement j'ai eu l'occasion de manipuler :
- • HTML/CSS -> responsive
- • JavaScript -> DOM, POO
- • PHP -> MySQL, POO, Framework Laravel
- • Python -> Programmation dynamique, fonctionnelle, orientée objet, des bibliotèques comme SQLLite3
- • SQL -> CLI, Phpmyadmin
+ * HTML/CSS -> responsive
+ * JavaScript -> DOM, POO
+ * PHP -> MySQL, POO, Framework Laravel
+ * Python -> Programmation dynamique, fonctionnelle, orientée objet, des bibliotèques comme SQLLite3
+ * SQL -> CLI, Phpmyadmin
  

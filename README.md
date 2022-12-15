@@ -1,13 +1,12 @@
-### Mon profil
-
 ![Header](GitHub_Header.png)
 
-* Bonjour, je m'appelle Ethan, j'ai 17 ans.
-* Je suis actuellement en Bachelor 1 informatique.
-* J'étudie à Campus Academy Angers.
+## Presentation 
+
+🎓 - French developper
+💻 - Computer science student at Campus Academy
 
 
-Actuellement j'ai eu l'occasion de manipuler :
+# I have already used these technologies :
  * HTML/CSS -> responsive
  * JavaScript -> DOM, POO
  * PHP -> MySQL, POO, Framework Laravel

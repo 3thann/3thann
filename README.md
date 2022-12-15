@@ -2,11 +2,11 @@
 
 ## Presentation 
 
-🎓 - French developper
-💻 - Computer science student at Campus Academy
+🎓 - French developper  
+💻 - Computer science student at Campus Academy  
 
 
-# I have already used these technologies :
+### I have already used these technologies :
  * HTML/CSS -> responsive
  * JavaScript -> DOM, POO
  * PHP -> MySQL, POO, Framework Laravel

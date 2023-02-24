@@ -1,15 +1,14 @@
 ![Header](GitHub_Header.png)
 
-## Presentation 
+## Présentation 
 
-🎓 - French developper  
-💻 - Computer science student at Campus Academy  
+🎓 - Développeur web junior  
+💻 - Étudient à Open Campus  
 
 
-### I have already used these technologies :
- * HTML/CSS -> responsive
- * JavaScript -> DOM, POO
- * PHP -> MySQL, POO, Framework Laravel
- * Python -> Programmation dynamique, fonctionnelle, orientée objet, des bibliotèques comme SQLite3
- * SQL -> CLI, Phpmyadmin
- * Git Bash
+### Compétences :
+ * Intégration statique
+ * Framework Laravel
+ * Base de données relationelle -> PhpMyAdmin, CLI
+ * Python -> Programmation dynamique, fonctionnelle et orienté objet
+ * Git bash
